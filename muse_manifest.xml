@@ -1,0 +1,163 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" ftp_hostname="ftp://s929523z.beget.tech" ftp_rootfolder="/s929523z.beget.tech/public_html" exportTarget="FTP" domain="s929523z.beget.tech" resolutions="1x" timestamp="1557064350512">
+  <folder name="css">
+    <file name="site_global.css" crc="4200535626"/>
+    <file name="index.css" crc="466028232" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="mont-heavydemo.woff" crc="455127527"/>
+    <file name="11246.eot" crc="3900280607"/>
+    <file name="mont-heavydemo.svg" crc="4278221228"/>
+    <file name="3976.woff" crc="3849201972"/>
+    <file name="3976.eot" crc="3838487423"/>
+    <file name="3976.svg" crc="4136430972"/>
+    <file name="droidsans.woff" crc="3923105360"/>
+    <file name="3947.eot" crc="3828078889"/>
+    <file name="droidsans.svg" crc="316115107"/>
+    <file name="10291.woff" crc="3883938425"/>
+    <file name="10291.eot" crc="3922046116"/>
+    <file name="10291.svg" crc="3892007860"/>
+    <file name="11186.woff" crc="4257835876"/>
+    <file name="11186.eot" crc="3924016452"/>
+    <file name="11186.svg" crc="10353196"/>
+    <file name="10479.woff" crc="65868294"/>
+    <file name="10479.eot" crc="4208052680"/>
+    <file name="10479.svg" crc="4057251548"/>
+    <file name="bigbossicon.woff" crc="331700122"/>
+    <file name="bigbossicon.eot" crc="492749460"/>
+    <file name="bigbossicon.svg" crc="4248078019"/>
+    <file name="10289.woff" crc="4276490203"/>
+    <file name="10289.eot" crc="375172841"/>
+    <file name="10289.svg" crc="4209809271"/>
+    <file name="nexascript-heavy.woff" crc="4078320251"/>
+    <file name="11325.eot" crc="323119854"/>
+    <file name="nexascript-heavy.svg" crc="192185675"/>
+    <file name="stolzl-book.woff" crc="4288408443"/>
+    <file name="stolzl-book.eot" crc="3904072226"/>
+    <file name="stolzl-book.svg" crc="88738835"/>
+    <file name="10475.woff" crc="385089321"/>
+    <file name="10475.eot" crc="524928489"/>
+    <file name="10475.svg" crc="3876493105"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u4282.php" crc="416761709" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
+    <file name="form-u3209.php" crc="372404512" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="стамбул--фото-девичник-турция-favicon.ico" crc="345989176" ref="phone>index"/>
+    <file name="m_main.jpg" crc="3812167486" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4013645455" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m_scroll.png" crc="281960659" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="form1308x294.png" crc="3892158512" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="form2283x270.png" crc="4269035422" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="form3306x291.png" crc="3786710104" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="m_srteet.jpg" crc="411607401" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo1215x199.png" crc="410390947" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="photo2186x161.png" crc="3806199811" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo3145x169.png" crc="511101818" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo4163x161.png" crc="3920021226" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="sveta-u3537-fr.jpg" crc="3929307626" ref="phone>index"/>
+    <file name="masha-u3542-fr.jpg" crc="3968569690" ref="phone>index"/>
+    <file name="fon.jpg" crc="234618503" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yes-u3579-fr.png" crc="3871852372" ref="phone>index"/>
+    <file name="no-u3583-fr.png" crc="3938149004" ref="phone>index"/>
+    <file name="main2.jpg" crc="4175367596" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scrol.png" crc="4002071474" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scrolling-u2061-fr.png" crc="3817664117" ref="index"/>
+    <file name="form2.png" crc="3960547568" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="form1.png" crc="64175172" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="form3.png" crc="3850956451" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo1.png" crc="366789" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo2.png" crc="3761254634" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo3.png" crc="3762048117" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="photo4.png" crc="4107602530" seo="true" ref="index">
+      <caption webpage="index" alt="Стамбул фото-девичник Турция"/>
+    </file>
+    <file name="sveta.jpg" crc="4173630437" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="masha.jpg" crc="510085927" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yes.png" crc="4219732669" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="no.png" crc="364759061" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prog.jpg" crc="4059747814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="282147989" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="436149011" seo="true" mt="1518780220538" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="479866918" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3967726432" seo="true" mt="1557064219079" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="229125379" seo="true" mt="1557064162679" redirect="true"/>
+</manifest>

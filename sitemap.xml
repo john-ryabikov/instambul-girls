@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://s929523z.beget.tech/index.html</loc>
+    <lastmod>2019-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://s929523z.beget.tech/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://s929523z.beget.tech/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/form2.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/form1.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/form3.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/photo1.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/photo2.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/photo3.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://s929523z.beget.tech/images/photo4.png</image:loc>
+      <image:caption>Стамбул фото-девичник Турция</image:caption>
+    </image:image>
+  </url>
+</urlset>
